@@ -1,0 +1,4 @@
+interface:
+  display_name: "FFmpeg Renderer"
+  short_description: "Flujo profesional de FFmpeg Renderer"
+  default_prompt: "Usa $ffmpeg-renderer para procesar esta etapa del proyecto de video."

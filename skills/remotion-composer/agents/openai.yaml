@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Composer"
+  short_description: "Flujo profesional de Remotion Composer"
+  default_prompt: "Usa $remotion-composer para procesar esta etapa del proyecto de video."

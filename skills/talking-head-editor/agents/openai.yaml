@@ -1,0 +1,4 @@
+interface:
+  display_name: "Talking Head Editor"
+  short_description: "Flujo profesional de Talking Head Editor"
+  default_prompt: "Usa $talking-head-editor para procesar esta etapa del proyecto de video."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Style Manager"
+  short_description: "Flujo profesional de Brand Style Manager"
+  default_prompt: "Usa $brand-style-manager para procesar esta etapa del proyecto de video."

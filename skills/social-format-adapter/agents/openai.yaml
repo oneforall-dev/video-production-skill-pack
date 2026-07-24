@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Format Adapter"
+  short_description: "Flujo profesional de Social Format Adapter"
+  default_prompt: "Usa $social-format-adapter para procesar esta etapa del proyecto de video."

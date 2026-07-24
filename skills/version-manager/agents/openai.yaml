@@ -1,0 +1,4 @@
+interface:
+  display_name: "Version Manager"
+  short_description: "Flujo profesional de Version Manager"
+  default_prompt: "Usa $version-manager para procesar esta etapa del proyecto de video."

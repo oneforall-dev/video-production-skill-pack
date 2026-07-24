@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Ingestion"
+  short_description: "Flujo profesional de Video Ingestion"
+  default_prompt: "Usa $video-ingestion para procesar esta etapa del proyecto de video."

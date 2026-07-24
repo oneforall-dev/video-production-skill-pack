@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Transcription"
+  short_description: "Flujo profesional de Video Transcription"
+  default_prompt: "Usa $video-transcription para procesar esta etapa del proyecto de video."

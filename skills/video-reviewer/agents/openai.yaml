@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Reviewer"
+  short_description: "Flujo profesional de Video Reviewer"
+  default_prompt: "Usa $video-reviewer para procesar esta etapa del proyecto de video."

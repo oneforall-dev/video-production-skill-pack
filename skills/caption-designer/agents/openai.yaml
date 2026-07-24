@@ -1,0 +1,4 @@
+interface:
+  display_name: "Caption Designer"
+  short_description: "Flujo profesional de Caption Designer"
+  default_prompt: "Usa $caption-designer para procesar esta etapa del proyecto de video."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit Planner"
+  short_description: "Flujo profesional de Edit Planner"
+  default_prompt: "Usa $edit-planner para procesar esta etapa del proyecto de video."

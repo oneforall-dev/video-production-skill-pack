@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revision Interpreter"
+  short_description: "Flujo profesional de Revision Interpreter"
+  default_prompt: "Usa $revision-interpreter para procesar esta etapa del proyecto de video."

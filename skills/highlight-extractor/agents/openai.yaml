@@ -1,0 +1,4 @@
+interface:
+  display_name: "Highlight Extractor"
+  short_description: "Flujo profesional de Highlight Extractor"
+  default_prompt: "Usa $highlight-extractor para procesar esta etapa del proyecto de video."

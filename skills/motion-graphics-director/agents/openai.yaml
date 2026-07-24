@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Graphics Director"
+  short_description: "Flujo profesional de Motion Graphics Director"
+  default_prompt: "Usa $motion-graphics-director para procesar esta etapa del proyecto de video."

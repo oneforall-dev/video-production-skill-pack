@@ -1,0 +1,41 @@
+{
+  "name": "video-production-skill-pack",
+  "version": "1.0.0",
+  "language": "es-ES",
+  "skills": [
+    "video-ingestion",
+    "video-transcription",
+    "talking-head-editor",
+    "edit-planner",
+    "caption-designer",
+    "remotion-composer",
+    "ffmpeg-renderer",
+    "video-reviewer",
+    "revision-interpreter",
+    "version-manager",
+    "broll-director",
+    "motion-graphics-director",
+    "audio-designer",
+    "brand-style-manager",
+    "social-format-adapter",
+    "highlight-extractor"
+  ],
+  "pipeline": [
+    "video-ingestion",
+    "video-transcription",
+    "talking-head-editor",
+    "highlight-extractor",
+    "brand-style-manager",
+    "broll-director",
+    "motion-graphics-director",
+    "audio-designer",
+    "social-format-adapter",
+    "caption-designer",
+    "edit-planner",
+    "remotion-composer",
+    "ffmpeg-renderer",
+    "video-reviewer",
+    "revision-interpreter",
+    "version-manager"
+  ]
+}

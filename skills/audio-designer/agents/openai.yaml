@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audio Designer"
+  short_description: "Flujo profesional de Audio Designer"
+  default_prompt: "Usa $audio-designer para procesar esta etapa del proyecto de video."

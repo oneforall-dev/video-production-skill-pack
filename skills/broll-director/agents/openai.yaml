@@ -1,0 +1,4 @@
+interface:
+  display_name: "B-roll Director"
+  short_description: "Flujo profesional de B-roll Director"
+  default_prompt: "Usa $broll-director para procesar esta etapa del proyecto de video."
